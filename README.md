@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Olá �, meu nome é Alexandre</h1>
+    <h1>Olá 👋, meu nome é Alexandre</h1>
     <a target="_blank" href="https://www.linkedin.com/in/alexandre-diano-975a55189/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:alexandredianosouza3@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <h4>
         Desenvolvedor fullstack
