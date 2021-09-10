@@ -9,7 +9,12 @@
     <p> Acabei adquirindo uma paixão por programação, sou muito curioso por isso sei pouco de cada coisa</p>
     <p> Quero me aprofundar cada vez mais no mundo do desenvolvimento, principalmente usando Go.</p>
 <hr>
-
+    
+<div>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alexandrediano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrediano&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+    
 ### Minhas linguagens e tecnologias:
 <br>
 
