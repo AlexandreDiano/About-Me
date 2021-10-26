@@ -6,7 +6,7 @@
         Full Stack Developer
     </h4>
     <p>I've been developing since 2019, that's what I love to do</p>
-    <p>I started a course about Systems Analysis and Development at UFPR in 2020.</p>
+    <p>I started a college about Systems Analysis and Development at UFPR in 2020.</p>
     <p>With this, my love for programming just grews after start this course, I am very curious so I know a little bit about to much things.</p>
     <p>I want to improve my self more and more, mainly in Artificial Inteligence with focus in Computer Vision, Machine Learning and 3D Modeling for Web.</p>
 <hr>
