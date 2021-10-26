@@ -1,14 +1,14 @@
 
 <div align="center">
-    <h1>Olá 👋, meu nome é Alexandre</h1>
+    <h1>Hello 👋, my name is Alexandre</h1>
     <a target="_blank" href="https://www.linkedin.com/in/alexandre-diano-975a55189/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:alexandredianosouza3@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <h4>
-        Desenvolvedor fullstack
+        Full Stack Developer
     </h4>
-    <p> Desenvolvo desde 2019, o que eu mais gosto e programar. </p>
-    <p> Concluí o curso de Desenvolvimento de Sistemas no Senai em junho de 2019 e estou cursando Análise e Desenvolvimento de Sistemas na UFPR.</p>
-    <p> Acabei adquirindo uma paixão por programação, sou muito curioso por isso sei pouco de cada coisa</p>
-    <p> Quero me aprofundar cada vez mais no mundo do desenvolvimento, principalmente na área da Inteligência Artificial focando principalmente em Computer Vision e Machine Learning e Modelagem 3D para Web.</p>
+    <p>I've been developing since 2019, that's what I love to do</p>
+    <p>I started a course about Systems Analysis and Development at UFPR in 2020.</p>
+    <p>With this, my love for programming just grews after start this course, I am very curious so I know a little bit about to much things.</p>
+    <p>I want to improve my self more and more, mainly in Artificial Inteligence with focus in Computer Vision, Machine Learning and 3D Modeling for Web.</p>
 <hr>
     
 <div>
@@ -16,7 +16,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrediano&layout=compact&langs_count=8&theme=dracula"/>
 </div>
     
-### Minhas linguagens e tecnologias:
+### Languages and Technologies:
 <br>
 
 ![](https://img.shields.io/badge/rails-ff5252?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
