@@ -7,7 +7,7 @@
     <p> Desenvolvo desde 2019, o que eu mais gosto e programar. </p>
     <p> Concluí o curso de Desenvolvimento de Sistemas no Senai em junho de 2019 e estou cursando Análise e Desenvolvimento de Sistemas na UFPR.</p>
     <p> Acabei adquirindo uma paixão por programação, sou muito curioso por isso sei pouco de cada coisa</p>
-    <p> Quero me aprofundar cada vez mais no mundo do desenvolvimento, principalmente usando Go.</p>
+    <p> Quero me aprofundar cada vez mais no mundo do desenvolvimento, principalmente na área da Inteligência Artificial e Modelagem 3D para Web.</p>
 <hr>
     
 <div>
