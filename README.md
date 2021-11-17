@@ -12,8 +12,8 @@
 <hr>
     
 <div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alexandrediano&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrediano&layout=compact&langs_count=8&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alexandrediano&show_icons=true&theme=solarized&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrediano&layout=compact&langs_count=8&theme=solarized"/>
 </div>
     
 ### Languages and Technologies:
