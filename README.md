@@ -31,13 +31,14 @@
   <img align="center" alt="Diano-C" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Diano-GO" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
   <img align="center" alt="Diano-PYTHON" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
- <img align="center" alt="Diano-POSTGRESQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">  
- <img align="center" alt="Diano-MYSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">  
- <img align="center" alt="Diano-DOCKER" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">  
- <img align="center" alt="Diano-GIT" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">  
- <img align="center" alt="Diano-FIGMA" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">  
- <img align="center" alt="Diano-XD" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-plain.svg">  
- <img align="center" alt="Diano-PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">  
+  <img align="center" alt="Diano-POSTGRESQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">  
+  <img align="center" alt="Diano-MYSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">  
+  <img align="center" alt="Diano-DOCKER" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">  
+  <img align="center" alt="Diano-GIT" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">  
+  <img align="center" alt="Diano-FIGMA" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">  
+  <img align="center" alt="Diano-XD" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-plain.svg">  
+  <img align="center" alt="Diano-PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg"> 
+  <img align="center" alt="Diano-PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">  
 </div>
 
 
