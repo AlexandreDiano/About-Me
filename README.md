@@ -1,5 +1,7 @@
 
 <div align="center">
+    <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" alt="">
+<hr>
     <h1>Hello 👋, my name is Alexandre</h1>
     <a target="_blank" href="https://www.linkedin.com/in/alexandre-diano-975a55189/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:alexandredianosouza3@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <h4>
@@ -14,11 +16,9 @@
 <div>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alexandrediano&show_icons=true&theme=solarized&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrediano&layout=compact&langs_count=8&theme=solarized"/>
-</div>
-    
+</div
 ### Languages and Technologies:
 <br>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Diano-JS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Diano-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -40,8 +40,5 @@
   <img align="center" alt="Diano-XD" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-plain.svg">  
   <img align="center" alt="Diano-PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">  
 </div>
-
-
 <hr>
-
 </div>
