@@ -7,10 +7,10 @@
     <h4>
         Full Stack Developer
     </h4>
-    <p>I've been developing since 2019, that's what I love to do</p>
-    <p>I started a college about Systems Analysis and Development at UFPR in 2020.</p>
-    <p>With this, my love for programming just grews after starting this college course, I am very curious so I know a little bit about to much things.</p>
-    <p>I want to improve my self more and more, mainly in Artificial Inteligence with focus in Computer Vision, Machine Learning, Data Science and 3D Modeling for Web.</p>
+    <p>I have been developing systems since 2019 and I am truly delighted in it.</p>
+    <p>Currently I am studying System Analysis and Development graduation course at Paraná Federal University, I am in the first year.</p>
+    <p>So far I have learned several subjects that are making my engagement, curiosity and passion to grow strong therefore my knowledge has been developing fast.</p>
+    <p>My aim is to keep learning and later to become an expert on Artificial Intelligence, focusing on Computer Vision, Machine Learning, Data Science and 3D Modeling for Web.</p>
 <hr>
     
 <div>
