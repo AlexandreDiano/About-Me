@@ -7,10 +7,10 @@
     <h4>
         Full Stack Developer
     </h4>
-    <p>I have been developing systems since 2019 and I am truly delighted in it.</p>
-    <p>Currently I am studying System Analysis and Development graduation course at Paraná Federal University, I am in the first year.</p>
-    <p>So far I have learned several subjects that are making my engagement, curiosity and passion to grow strong therefore my knowledge has been developing fast.</p>
-    <p>My aim is to keep learning and later to become an expert on Artificial Intelligence, focusing on Computer Vision, Machine Learning, Data Science and 3D Modeling for Web.</p>
+    <i>I have been developing systems since 2019 and I am truly delighted in it.</i>
+    <i>Currently I am studying System Analysis and Development graduation course at Paraná Federal University, I am in the first year.</i>
+    <i>So far I have learned several subjects that are making my engagement, curiosity and passion to grow strong therefore my knowledge has been developing fast.</i>
+    <i>My aim is to keep learning and later to become an expert on Artificial Intelligence, focusing on Computer Vision, Machine Learning, Data Science and 3D Modeling for Web.</i>
 <hr>
     
 <div>
