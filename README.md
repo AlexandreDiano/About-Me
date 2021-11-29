@@ -5,7 +5,9 @@
     <h1>Hello 👋, my name is Alexandre</h1>
     <a target="_blank" href="https://www.linkedin.com/in/alexandre-diano-975a55189/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:alexandredianosouza3@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <h4>
-        Full Stack Developer
+        <i>
+            <e>Full Stack Developer</e>
+        </i>
     </h4>
     <i>I have been developing systems since 2019 and I am truly delighted in it.</i>
     <i>Currently I am studying System Analysis and Development graduation course at Paraná Federal University, I am in the first year.</i>
