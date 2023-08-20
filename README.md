@@ -29,8 +29,6 @@ I am committed to a path of continuous improvement. I'm excited about embracing 
 
 If you're interested in discussing projects, technology trends, or opportunities for collaboration, feel free to reach out to me. Let's connect and explore the possibilities together!
 
-I have been developing systems since 2019 and I am truly delighted in them. Currently, I am studying System Analysis and Development graduation course at Paraná Federal University, I am in the first year. So far I have learned several subjects that are making my engagement, curiosity, and passion to grow strong therefore my knowledge has been developing fast. My aim is to keep learning and later become an expert on Artificial Intelligence, focusing on Computer Vision, Machine Learning, Data Science, and 3D Modeling for the Web.
-
 <h1></h1>
 
 - 🌱 I’m currently learning **React.JS, TypeScript, Python**
