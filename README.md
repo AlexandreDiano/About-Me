@@ -11,7 +11,7 @@
 
 <h1>About Me</h1>
 
-I'm enthusiastic about the world of software development, having embarked on this journey in 2019. The ability to create systems that solve real-world challenges has always captivated me. Currently, I'm pursuing a degree in System Analysis and Development at Paraná Federal University, where I'm in my first year.
+I'm enthusiastic about the world of software development, having embarked on this journey in 2019. The ability to create systems that solve real-world challenges has always captivated me. Currently, I'm pursuing a degree in System Analysis and Development at Paraná Federal University, where I'm in my last year.
 
 <h3>Learning and Growth</h3>
 
