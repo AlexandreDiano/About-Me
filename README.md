@@ -37,8 +37,7 @@ If you're interested in discussing projects, technology trends, or opportunities
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/alexandrediano/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alexandrediano/" height="30" width="40" /></a>
-<a href="https://www.behance.net/alexandrediano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="www.behance.net/alexandrediano" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alexandre-diano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alexandrediano/" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -118,7 +117,7 @@ If you're interested in discussing projects, technology trends, or opportunities
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/>
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" style="invert: 1"/>
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
