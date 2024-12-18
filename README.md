@@ -88,17 +88,6 @@ I am deeply fascinated by:
 
 <div align="center">
 
-## 🌱 Currently Learning  
-</div>
-
-- **React.JS**  
-- **TypeScript**  
-- **Advanced Python for AI**  
-
-<h1></h1>
-
-<div align="center">
-
 ## 📫 Let's Connect  
 </div>
 
