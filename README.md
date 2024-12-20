@@ -14,10 +14,9 @@
 ## 🧠 About Me  
 </div>
 
-I'm a passionate **Artificial Intelligence** enthusiast with a focus on **Computer Vision** and its transformative applications. My software development journey began in 2019, and I’ve been dedicated to solving real-world problems with technology ever since.  
+I'm a passionate Artificial Intelligence enthusiast with a focus on Computer Vision and its transformative applications. My software development journey began in 2019, and I’ve been dedicated to solving real-world problems with technology ever since.
 
-Currently, I’m pursuing my **System Analysis and Development** degree at the **Paraná Federal University**. I thrive on learning and exploring new technologies that can make an impact.  
-
+I hold a degree in System Analysis and Development from the Paraná Federal University. I thrive on learning and exploring new technologies that can make an impact.
 <h1></h1>
 
 <div align="center">
@@ -60,12 +59,6 @@ I am deeply fascinated by:
 ## 🛠️ Skills  
 </div>
 
-### **Languages & Frameworks**  
-- **Languages**: Python, JavaScript, TypeScript  
-- **AI Libraries**: TensorFlow, PyTorch, Keras, OpenCV  
-- **Web Tools**: HTML, CSS, React, Next.js, Node.js  
-
-### **Technologies & Tools**  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,js,ts,react,nextjs,nodejs,docker,linux,git,postgresql,mongodb,cypress" />
 </p>
